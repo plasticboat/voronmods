@@ -57,4 +57,4 @@ Insert magnets, then test continuity with a multimeter. Use 2x m3x12mm to bolt i
 </p>
 
 ## Macros
-WIP
+I was able to use the incredible klicky probe macros with a small number of tweaks. I simply needed to modify the math in the attach and dock probe macros as well as add the servo in and servo out macros where appropriate. The rest was turn and works great including probe detection and other safety features and checks.

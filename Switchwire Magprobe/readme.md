@@ -25,7 +25,9 @@ _This mod was created remixing three mods: \
 * 1x mouse switch (eg. Omron D2F-5)
 
 #### Fasteners
-TBD
+* 2x M2x10 Self-tapping
+* 1x M3x20mm SHCS
+* 1x M5x10mm BHCS
 
 #### Magnets
 * 5x 6mmx3mm magnets (tested working with N45 magnets)
